@@ -9,7 +9,7 @@ en la economía. Se tendrá un espacio dedicado a los recursos bibliográficos, 
 
 [Acceder a los recursos bibliográficos y de referencia](text_resources).
 
-#Introducción
+# Introducción
 
 En las primeras cuatro décadas la tecnología nos trajo WWW, e-mail, dominios, redes sociales, big data, computación en la nube y lo más reciente, el internet de las cosas. Todo esto para reducir costos, tener la información de forma más rápida y realizar investigación que permitan desarrollar nuevas tecnologías para mejorar los procesos y obtener más ganacias. Este crecimiento hizo que Internet haya tenido diferentes problemas como: privacidad, seguridad, y la diversidad de la criptografía.
 
