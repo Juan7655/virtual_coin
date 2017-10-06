@@ -27,7 +27,7 @@ Describir el procedimiento transaccional por medio de la billeteras y el manejo 
 Analizar las metodologías y protocolos relacionados con los componentes de las arquitecturas de las criptomonedas.
 
 ## Mapa conceptual del estado del arte
-
+![Diseño experimental](assets/img/task1/estado-del-arte.jpg)
 
 ## Mapa conceptual del marco teórico
 
