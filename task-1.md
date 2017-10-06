@@ -30,7 +30,7 @@ Analizar las metodologías y protocolos relacionados con los componentes de las 
 ![Diseño experimental](assets/img/task1/estado-del-arte.jpg)
 
 ## Mapa conceptual del marco teórico
-
+![Diseño experimental](assets/img/task1/marco-teorico.jpg)
 
 ## Hipótesis
 
