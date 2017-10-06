@@ -13,4 +13,3 @@
 [[7] https://www.econstor.eu/bitstream/10419/148750/1/861287290.pdf](https://www.econstor.eu/bitstream/10419/148750/1/861287290.pdf)
 
 [[8] https://books.google.es/books?hl=es&lr=&id=NqBiCgAAQBAJ&oi=fnd&pg=PT11&dq=blockchain&ots=sRtKDJ4bAz&sig=O7CxiAJPeYwFJqeADt2fDrL1-Rg#v=onepage&q=blockchain&f=false](https://books.google.es/books?hl=es&lr=&id=NqBiCgAAQBAJ&oi=fnd&pg=PT11&dq=blockchain&ots=sRtKDJ4bAz&sig=O7CxiAJPeYwFJqeADt2fDrL1-Rg#v=onepage&q=blockchain&f=false)
-
