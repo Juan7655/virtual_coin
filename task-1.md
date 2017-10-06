@@ -1,4 +1,5 @@
-# Task 1
+# Task1
+
 ## Nombre del artículo:
 The cryptocurrency enigma
 ## Autor/es del artículo: 
@@ -27,11 +28,9 @@ Analizar las metodologías y protocolos relacionados con los componentes de las 
 
 ## Mapa conceptual del estado del arte
 
-![estado del arte](https://github.com/Juan7655/virtual_coin/blob/master/assets/img/task1/estado-del-arte)
 
 ## Mapa conceptual del marco teórico
 
-![marco teórico](https://github.com/Juan7655/virtual_coin/blob/master/assets/img/task1/marco-teorico)
 
 ## Hipótesis
 
@@ -40,5 +39,3 @@ Analizar las metodologías y protocolos relacionados con los componentes de las 
 **H1:** Los protocolos de comunicación y metodologías usadas durante las transacciones de las criptomonedas son suficientemente seguras como para 
 
 ## Diseño experimental
-
-![Diseño experimental](https://github.com/Juan7655/virtual_coin/blob/master/assets/img/task1/diseno-experimental.jpg)
