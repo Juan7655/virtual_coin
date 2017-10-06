@@ -41,4 +41,4 @@ Analizar las metodologías y protocolos relacionados con los componentes de las 
 
 ## Diseño experimental
 
-![Diseño experimental](https://github.com/Juan7655/virtual_coin/blob/master/assets/img/task1/diseno-experimental)
+![Diseño experimental](https://github.com/Juan7655/virtual_coin/blob/master/assets/img/task1/diseno-experimental.jpg)
