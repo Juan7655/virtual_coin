@@ -39,4 +39,4 @@ Analizar las metodologías y protocolos relacionados con los componentes de las 
 **H1:** Los protocolos de comunicación y metodologías usadas durante las transacciones de las criptomonedas son suficientemente seguras como para 
 
 ## Diseño experimental
-![Diseño experimental](https://github.com/Juan7655/virtual_coin/blob/master/assets/img/task1/diseno-experimental.jpg)
+![Diseño experimental](assets/img/task1/diseno-experimental)
