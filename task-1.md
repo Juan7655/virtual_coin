@@ -4,7 +4,7 @@
 The cryptocurrency enigma
 ## Autor/es del artículo: 
 Preston Miller, Consultant at an international cybersecurity and forensics firm, USA
-Base de datos: 
+## Base de datos: 
 Science Direct
 Scopus
 
