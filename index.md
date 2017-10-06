@@ -19,3 +19,7 @@ Las billeteras virtuales ahora permiten agrupar en un sólo lugar todas las tarj
 1. ¿Realmente la información de las personas se encuentra asegurada con estas nuevas tecnologías?
 
 2. ¿Cuál será el impacto que tendrán las billeteras virtuales en la banca y en la economía mundial?
+
+# Actividades
+
+[En esta sección se encuentra el trabajo para el primer task.](task-1).
